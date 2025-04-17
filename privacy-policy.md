@@ -2,19 +2,22 @@
 
 Your privacy is important to us.
 
-1. **Data Collected**  
-   This app does not collect or store personal data beyond what is required by TikTok’s API for uploading videos (e.g., access token, user ID).
+1. **What Data We Collect**  
+   This tool does not collect or store personal data. It operates entirely on the user’s local environment.
 
 2. **Third-Party Services**  
-   This app uses the TikTok Content Posting API to upload videos. All interactions with TikTok are subject to their Privacy Policy.
+   This tool interacts with TikTok’s Content Posting API and third-party AI services (such as OpenAI, ElevenLabs, etc.) based on the user’s API keys. These services are governed by their respective privacy policies.
 
-3. **Local Use Only**  
-   All data (such as video files and scripts) are stored locally on the user's device and not sent to external servers.
+3. **No External Data Storage**  
+   All operations are performed locally. No user data, access tokens, or video content is stored on external servers. Please do not share your API keys or access tokens with anyone.
 
 4. **Security**  
-   We do not store or share any user information beyond what is required for functionality. Please do not share your access token publicly.
+   Users are responsible for managing their API credentials securely. We do not have access to, nor do we collect, any of your personal information or content.
 
-5. **Changes**  
-   We may update this policy occasionally. Continued use means you accept the changes.
+5. **Not a Public Product**  
+   This tool is currently under active development and **not intended for public use**. Should this change in the future, this privacy policy will be updated accordingly.
+
+6. **Changes to this Policy**  
+   We may update this privacy policy at any time. Continued use of the tool implies acceptance of the latest version.
 
 Last updated: April 17, 2025
